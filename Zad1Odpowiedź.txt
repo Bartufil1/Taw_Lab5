@@ -1,0 +1,2 @@
+Aplikacja wydrukowała w konsoli komunikat "new conection" za pomocą mechanizmu zdarzeń (events) w Node.js. 
+Zgodnie z kodem w pliku index1.js serwer nasłuchuje na zdarzenie "connection", które jest wywoływane za każdym razem, gdy klient nawiąże połączenie z serwerem. Wtedy wywoływna jest funkcja zwrotna, która wypisuje komunikat "new connection" w konsoli. 
